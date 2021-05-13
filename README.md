@@ -1,1 +1,4 @@
-# Basic_banking_system
+# DHARSHINI PRIYA P - Basic_banking_system
+
+TECHNOLOGY USED:
+HTML, CSS, JAVASCRIPT, PHP, BOOTSTRAP, MYSQL
